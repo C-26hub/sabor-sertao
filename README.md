@@ -52,7 +52,7 @@ O painel possui:
 ![Exploração dos Dados](screenshots/Painel_de_vendas.png)
 
 ### Visualizações
-![Visualizações dos Dados do Painel](screenshots/KPIs + graficos.png)
+![Visualizações dos Dados do Painel](screenshots/visualizacoes.png)
 
 ### Explorador Livre
 ![Explorador Livre](screenshots/explorador_livre.png)
@@ -90,7 +90,12 @@ Depois, acesse o endereço apresentado pelo Streamlit no terminal.
     ├── gerar_dados.py
     ├── vendas_sabor_do_sertao.csv
     ├── requirements.txt
-    └── README.md
+    ├── README.md
+    └── screenshots/
+            ├── Painel_de_vendas.png
+            ├── explorador_livre.png
+            ├── pagina_inicial.png
+            └── visualizacoes.png
 
 ## Dados
 
@@ -113,4 +118,7 @@ O conjunto possui informações sobre:
 
 **Atividade Prática: Painel de Análise de Dados com Streamlit**
 
-Projeto desenvolvido para fins acadêmicos.
+Projeto desenvolvido para fins acadêmicos pela equipe:
+- Kallyne Melo (kallynemelo2020@gmail.com)
+- Marcelly Arcanjo (marcellyarcanjo7@gmail.com)
+- Maria Cecília (cecilmari33@gmail.com)
