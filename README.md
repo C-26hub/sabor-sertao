@@ -43,6 +43,20 @@ O painel possui:
 - Download dos dados filtrados em CSV
 - Explorador livre para criação de gráficos personalizados
 
+## Capturas de tela
+
+### Página Inicial
+![Página Inicial do Sabor do Sertão](screenshots/pagina_inicial.png)
+
+### Painel de Vendas
+![Exploração dos Dados](screenshots/Painel_de_vendas.png)
+
+### Visualizações
+![Visualizações dos Dados do Painel](screenshots/KPIs + graficos.png)
+
+### Explorador Livre
+![Explorador Livre](screenshots/explorador_livre.png)
+
 ## Como executar o projeto
 
 ### 1. Instalar as dependências
